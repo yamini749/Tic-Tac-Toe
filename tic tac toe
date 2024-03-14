@@ -54,4 +54,4 @@ else:
 # Switch to the other player
 current_player = "O" if current_player == "X" else "X"
 # Start the game
-play_game(
+play_game()
